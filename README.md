@@ -14,4 +14,4 @@ To simply install it:
     ```
     chmod +x chat.py or python3 chat.py
     ```
-![chat](https://user-images.githubusercontent.com/82824055/217657425-b270f619-bd2d-4964-ab78-325865e124a4.png)
+![chat](https://user-images.githubusercontent.com/82824055/217657720-87dc82b7-ca4b-4ab3-88f7-b4e5c30d3c55.png)
