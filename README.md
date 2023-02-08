@@ -1,3 +1,3 @@
 # FelpaGPT
 
-Little fun experiment with openai in a colorful way (~^w^)~
+Little fun experiment with openai in a colorful way (\~^w^)\~
